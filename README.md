@@ -6,6 +6,11 @@
 
 若未更新请提交issue告知，感激不尽
 
+## 在线导入
+
+LX：https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+
+
 ## 部分数据来源
 
  - [Huibq](https://github.com/Huibq/keep-alive/)
