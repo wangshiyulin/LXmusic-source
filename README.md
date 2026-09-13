@@ -9,6 +9,12 @@
 ## 在线导入
 
 LX：https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+Grass：https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
+Sixyin：https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+Huibq：https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+Flower：https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+ikun：https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+JuheApi：https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
 
 
 ## 部分数据来源
