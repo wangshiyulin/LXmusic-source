@@ -6,7 +6,7 @@
 
 若未更新请提交issue告知，感激不尽
 
-## 在线导入
+## 部分源在线导入
 
 LX：https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
 
